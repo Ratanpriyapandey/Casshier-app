@@ -400,7 +400,7 @@ li a {
   text-align: center;
   border: 2px solid white;
   padding: 7px;
-  margin-left: 100px;
+  margin-left: 15px;
   width: 145px;
 }
 .cal {
