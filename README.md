@@ -1,6 +1,6 @@
 # Ratan-App
 
-> y
+> Ratan-App
 
 ## Build Setup
 
