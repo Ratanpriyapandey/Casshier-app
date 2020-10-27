@@ -131,7 +131,7 @@
               <div class="modal-content">
                 <div class="modal-header">
                   <h4 class="modal-title" style="color: cyan; font-size: 25px">
-                    To Pay back
+                    Zurückzahlen
                   </h4>
                 </div>
                 <div class="modal-body">
